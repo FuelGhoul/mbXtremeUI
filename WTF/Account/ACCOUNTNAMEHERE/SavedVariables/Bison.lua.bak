@@ -1,0 +1,10 @@
+
+BisonDB = {
+	["profileKeys"] = {
+		["Sata - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

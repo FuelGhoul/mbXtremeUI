@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: ButtonFacade|c0000FF00:|r|cffa335ee Renaitre|r 
+## Version: 0223
+## Notes: Renaitre Skins for ButtonFacade.
+## Author: Limb0 (Renaitre, US, Magtheridon)
+## Credits: StormFX and JJ Sheets, the creators of ButtonFacade.
+## Dependencies: ButtonFacade
+
+Skins.lua

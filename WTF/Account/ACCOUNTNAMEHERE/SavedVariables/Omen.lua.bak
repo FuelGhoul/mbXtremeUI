@@ -1,0 +1,18 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Uicreator - Skullcrusher"] = "Uicreator - Skullcrusher",
+	},
+	["profiles"] = {
+		["Uicreator - Skullcrusher"] = {
+			["PositionW"] = 200.0000610351563,
+			["PositionH"] = 82.00001525878906,
+			["PositionY"] = 348.9999084472656,
+			["Shown"] = true,
+			["PositionX"] = 1642.500244140625,
+			["ShowWith"] = {
+				["UseShowWith"] = false,
+			},
+		},
+	},
+}

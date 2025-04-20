@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: |cffaaaaaanib|rChatTabs
+## Author: Nibelheim
+## Notes: Modifies the appearance of the Chat Tabs
+## Version: 0.33
+## SavedVariables: nibChatTabsDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+## X-Embeds: Ace3, LibSharedMedia-3.0
+## X-Category: Interface Enhancements 
+
+Embeds.xml
+Core.lua
+Config.lua

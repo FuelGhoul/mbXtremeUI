@@ -1,0 +1,29 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Uicreator - Skullcrusher"] = "Uicreator - Skullcrusher",
+	},
+	["profiles"] = {
+		["Uicreator - Skullcrusher"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -396.0002136230469,
+					["x"] = 784.9998779296875,
+					["h"] = 199.9999847412109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

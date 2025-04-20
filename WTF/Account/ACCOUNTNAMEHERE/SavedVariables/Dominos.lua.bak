@@ -1,0 +1,213 @@
+
+DominosDB = {
+	["profileKeys"] = {
+		["Eyka - Icecrown"] = "Death Knight",
+	},
+	["profiles"] = {
+		["Death Knight"] = {
+			["sticky"] = false,
+			["frames"] = {
+				{
+					["y"] = 78.12339396842329,
+					["point"] = "BOTTOMLEFT",
+					["numButtons"] = 12,
+					["padW"] = 2,
+					["x"] = 649.4065214481873,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+							["[bar:6]"] = 5,
+							["[bar:5]"] = 4,
+							["[bar:3]"] = 2,
+							["[bar:4]"] = 3,
+							["[bar:2]"] = 1,
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [1]
+				{
+					["y"] = 78.12339396842329,
+					["numButtons"] = 3,
+					["point"] = "BOTTOMRIGHT",
+					["padW"] = 2,
+					["x"] = -647.5983847207588,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [2]
+				{
+					["point"] = "BOTTOMLEFT",
+					["y"] = 30.11074178202511,
+					["numButtons"] = 12,
+					["padW"] = 2,
+					["x"] = 649.4063813911209,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [3]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["fadeAlpha"] = 0,
+					["y"] = 30.11062360887532,
+					["padW"] = 2,
+					["x"] = -647.5981046066261,
+					["numButtons"] = 3,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [4]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["padW"] = 2,
+					["numButtons"] = 8,
+					["y"] = 31.86323865142826,
+					["x"] = -489.5851620480091,
+					["columns"] = 3,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [5]
+				{
+					["columns"] = 3,
+					["y"] = 31.04869739063701,
+					["padW"] = 2,
+					["x"] = 489.8621949253796,
+					["numButtons"] = 8,
+					["spacing"] = 6,
+					["padH"] = 2,
+					["point"] = "BOTTOMLEFT",
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["hspacing"] = 6,
+				}, -- [6]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = -691.4551542128829,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 514.429534916849,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["point"] = "BOTTOMLEFT",
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 721.5024370134718,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280.000038843952,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["point"] = "BOTTOMLEFT",
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 721.5024370134718,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320.0000043767834,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["point"] = "BOTTOMLEFT",
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 721.5024370134718,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360.0000224310145,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["xp"] = {
+					["y"] = -31.99995842055841,
+					["x"] = 240.3755487990483,
+					["point"] = "TOPLEFT",
+					["hidden"] = true,
+					["height"] = 14,
+					["texture"] = "blizzard",
+					["alwaysShowText"] = true,
+					["width"] = 0.75,
+				},
+				["menu"] = {
+					["y"] = 400.6257104151919,
+					["x"] = -291.0741585069861,
+					["point"] = "BOTTOMRIGHT",
+					["hidden"] = true,
+				},
+				["roll"] = {
+					["y"] = -354.8215524573552,
+					["x"] = -222.7425567157602,
+					["point"] = "TOPRIGHT",
+					["spacing"] = 2,
+					["numButtons"] = 4,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 296.4865938100932,
+					["x"] = -365.2577647042651,
+					["point"] = "BOTTOMRIGHT",
+					["numButtons"] = 3,
+				},
+				["bags"] = {
+					["y"] = 0,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["numButtons"] = 6,
+					["hidden"] = true,
+				},
+				["pet"] = {
+					["y"] = 299.54085327169,
+					["x"] = 29.32263410412819,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 6,
+				},
+				["class"] = {
+					["y"] = 260.430582746132,
+					["x"] = -360.636721854941,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["numButtons"] = 3,
+				},
+			},
+		},
+	},
+}
+DominosVersion = "1.18.7"

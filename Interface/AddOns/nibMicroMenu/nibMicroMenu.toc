@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: |cffaaaaaanib|rMicroMenu
+## Author: Nibelheim
+## Notes: Text based MicroMenu
+## Version: 0.52
+## SavedVariables: nibMicroMenuDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+## X-Embeds: Ace3, LibSharedMedia-3.0
+## X-Category: Interface Enhancements 
+
+Embeds.xml
+Micromenu.xml
+Config.lua

@@ -1,0 +1,25 @@
+
+nibMicroMenuDB = {
+	["profileKeys"] = {
+		["Valacar - Stormscale"] = "mbXtremeUI 6.0",
+	},
+	["profiles"] = {
+		["mbXtremeUI 6.0"] = {
+			["font"] = {
+				["name"] = "DorisPP",
+				["size"] = 14,
+			},
+			["position"] = {
+				["y"] = -26,
+				["x"] = -110,
+				["anchorto"] = "TOPRIGHT",
+			},
+		},
+		["Default"] = {
+			["font"] = {
+				["name"] = "DorisPP",
+				["size"] = 36,
+			},
+		},
+	},
+}

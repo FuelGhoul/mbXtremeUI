@@ -1,0 +1,27 @@
+------------------------------------------------------------------------
+r366 | kagaro | 2010-07-15 00:07:23 +0000 (Thu, 15 Jul 2010) | 3 lines
+Changed paths:
+   A /tags/v1.5.2 (from /trunk:365)
+
+Tagging as v1.5.2
+
+Re-tagging to pick up fixed AceGui-SharedMediaWidget
+------------------------------------------------------------------------
+r364 | kagaro | 2010-07-12 14:02:15 +0000 (Mon, 12 Jul 2010) | 1 line
+Changed paths:
+   M /trunk/embeds.xml
+
+Use Script instead of include
+------------------------------------------------------------------------
+r362 | kagaro | 2010-07-08 19:40:40 +0000 (Thu, 08 Jul 2010) | 1 line
+Changed paths:
+   M /trunk/kgPanels.lua
+
+Make loading LibDualSpec silent since people who disembed dont know what their doing.
+------------------------------------------------------------------------
+r360 | kagaro | 2010-06-03 23:14:50 +0000 (Thu, 03 Jun 2010) | 1 line
+Changed paths:
+   M /trunk/kgPanelsConfig/kgPanelsConfig.lua
+
+Fixed issue found by stanzilla, about export/import frames accept button vanishing
+------------------------------------------------------------------------

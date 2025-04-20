@@ -1,0 +1,12 @@
+Thanks for downloading this interface!
+I put alot of work into making this compatible and working for 3.3.5, so I would appreciate if u leave me some feedback
+on the forum post or u just tell me how u like this UI in general.
+If there are any bugs, message me or comment on the forum post and I will try to fix it as 
+fast as possible! :)
+
+Change Log:
+
+-V6.0.1:
+Fixed some castbar positions
+Fixed Grid2 profile to load with the command
+Fixed kgPanels graphical issues (offsets, coloring)

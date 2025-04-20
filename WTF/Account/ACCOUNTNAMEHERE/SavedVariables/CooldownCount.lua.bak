@@ -1,0 +1,25 @@
+
+CooldownCountDB = {
+	["profileKeys"] = {
+		["Valacar - Nathrezim"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimumDuration"] = 2,
+			["color_common"] = {
+				["r"] = 0.9686274509803922,
+				["b"] = 0.9529411764705882,
+			},
+			["size4"] = 24,
+			["size3"] = 24,
+			["ShowDecimal"] = false,
+			["color_warn"] = {
+				["r"] = 0.9725490196078431,
+				["g"] = 1,
+				["b"] = 0.984313725490196,
+			},
+			["font"] = "Arial Narrow",
+			["size1"] = 24,
+		},
+	},
+}

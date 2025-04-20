@@ -1,0 +1,36 @@
+
+OmniCCGlobalSettings = {
+	["styles"] = {
+		["seconds"] = {
+			["r"] = 0.9450980392156863,
+			["b"] = 0.9333333333333334,
+		},
+		["hours"] = {
+			["r"] = 1,
+			["scale"] = 1,
+			["g"] = 1,
+			["b"] = 1,
+		},
+		["soon"] = {
+			["r"] = 0.9450980392156863,
+			["scale"] = 1,
+			["g"] = 1,
+			["b"] = 0.9333333333333334,
+		},
+	},
+	["useBlacklist"] = true,
+	["fontFace"] = "Interface\\AddOns\\SharedMedia\\Media\\Fonts\\Impact.ttf",
+	["blacklist"] = {
+		"Raven", -- [1]
+		"RavenButton", -- [2]
+		"RavenButton2", -- [3]
+		"RavenButton2Container", -- [4]
+		"RavenButton3", -- [5]
+		"RavenButton4", -- [6]
+		"RavenOverlay2", -- [7]
+		"RavenOverlay3", -- [8]
+		"RavenOverlay4", -- [9]
+	},
+	["fontSize"] = 20,
+	["version"] = "3.0.4",
+}

@@ -1,0 +1,78 @@
+
+CooldownCountDB = {
+	["profileKeys"] = {
+		["Plesar - Icecrown"] = "mbXtremeUI 6.0",
+		["Bankwar - Eredar"] = "Default",
+		["Aeseronix - Nathrezim"] = "mbXtremeUI 5.0",
+		["Yulan - Eredar"] = "Default",
+		["Chiren - Eredar"] = "mbXtremeUI 5.0",
+		["Shyasta - Thrall"] = "Default",
+		["Shadryan - Eredar"] = "Default",
+		["Aeserox - Eredar"] = "mbXtremeUI 5.0",
+		["Acmftw - Neptulon"] = "Default",
+		["Valacar - Stormscale"] = "mbXtremeUI 6.0",
+		["Valacar - Nathrezim"] = "mbXtremeUI 5.0",
+		["Dynero - Eredar"] = "mbXtremeUI 5.0",
+		["Petacm - Nathrezim"] = "Default",
+		["Petacma - Nathrezim"] = "Default",
+		["Dotbert - Eredar"] = "mbXtremeUI 5.0",
+		["Sata - Icecrown"] = "mbXtremeUI 6.0",
+		["Cîleymyrus - Stormscale"] = "Default",
+		["Eyka - Icecrown"] = "mbXtremeUI 6.0",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimumDuration"] = 2,
+			["font"] = "DorisPP",
+			["size1"] = 24,
+			["ShowDecimal"] = false,
+			["size3"] = 24,
+			["size4"] = 24,
+			["color_warn"] = {
+				["b"] = 0.984313725490196,
+				["g"] = 1,
+				["r"] = 0.972549019607843,
+			},
+			["color_common"] = {
+				["b"] = 0.952941176470588,
+				["r"] = 0.9686274509803921,
+			},
+		},
+		["mbXtremeUI 6.0"] = {
+			["size4"] = 20,
+			["size3"] = 20,
+			["color_common"] = {
+				["r"] = 0.96078431372549,
+				["b"] = 0.964705882352941,
+			},
+			["font"] = "Impact",
+			["size1"] = 20,
+			["color_warn"] = {
+				["r"] = 0.917647058823529,
+				["g"] = 0.933333333333333,
+				["b"] = 1,
+			},
+			["size2"] = 20,
+		},
+		["mbXtremeUI 5.0"] = {
+			["size4"] = 20,
+			["size3"] = 10,
+			["color_common"] = {
+				["b"] = 0.870588235294118,
+				["g"] = 0.882352941176471,
+				["r"] = 0.858823529411765,
+			},
+			["WarnSpeed"] = 0.5,
+			["font"] = "Impact",
+			["UseBlizCounter"] = true,
+			["shine"] = true,
+			["color_warn"] = {
+				["b"] = 0.882352941176471,
+				["g"] = 0.870588235294118,
+				["r"] = 0.858823529411765,
+			},
+			["size2"] = 10,
+			["size1"] = 10,
+		},
+	},
+}

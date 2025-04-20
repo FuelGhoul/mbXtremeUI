@@ -1,0 +1,14 @@
+
+BasicMinimapDB = {
+	["strata"] = "HIGH",
+	["borderB"] = 0,
+	["relpoint"] = "TOPRIGHT",
+	["y"] = -19.99976348876953,
+	["borderSize"] = 0.5,
+	["borderR"] = 0,
+	["borderG"] = 0,
+	["lock"] = true,
+	["scale"] = 1.2,
+	["x"] = -18.33357810974121,
+	["point"] = "TOPRIGHT",
+}

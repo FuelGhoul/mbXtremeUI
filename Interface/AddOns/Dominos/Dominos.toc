@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: Dominos
+## Notes: A main actionbar replacement
+## Author: Tuller (Kader's Edition)
+## Version: 1.18.7
+## SavedVariables: DominosDB, DominosVersion
+## OptionalDeps: Ace3, LibKeyBound-1.0, ButtonFacade
+## X-Date: 2022-05-24 @ 10:03 PM |cff808080UTC|r
+
+libs\_load.xml
+locales\_load.xml
+core\_load.xml
+modules\_load.xml

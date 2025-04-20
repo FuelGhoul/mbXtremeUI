@@ -1,0 +1,93 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+  <Script file="Core.lua"/>
+  
+	<!-- MicroMenu Anchor Panel -->
+ 	<Frame name="nibMicroMenu_Frame" frameStrata="LOW" parent="UIParent" />
+
+	<!-- MicroMenu Button Template -->
+	<Frame name="nibMicroMenu_ButtonTemplate" frameStrata="LOW" virtual="true" parent="nibMicroMenu_Frame">
+		<Layers>
+			<Layer level="ARTWORK">
+				<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="CENTER" parentKey="text">
+					<Anchors>
+						<Anchor point="CENTER" relativePoint="CENTER" />
+					</Anchors>
+				</FontString>
+			</Layer>
+		</Layers>
+	</Frame>
+	
+	<!-- MicroMenu Buttons -->
+	<!-- Character -->
+	<Frame name="nibMicroMenu_Button_Character" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("character") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("character") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("character") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- SpellBook -->
+	<Frame name="nibMicroMenu_Button_Spellbook" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("spellbook") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("spellbook") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("spellbook") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- Talents -->
+	<Frame name="nibMicroMenu_Button_Talents" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("talents") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("talents") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("talents") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- Achievements -->
+	<Frame name="nibMicroMenu_Button_Achievements" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("achievements") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("achievements") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("achievements") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- Quest Log -->
+	<Frame name="nibMicroMenu_Button_QuestLog" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("questlog") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("questlog") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("questlog") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- Guild -->
+	<Frame name="nibMicroMenu_Button_Guild" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("guild") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("guild") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("guild") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- PvP -->
+	<Frame name="nibMicroMenu_Button_PvP" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("pvp") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("pvp") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("pvp") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- LFD Window -->
+	<Frame name="nibMicroMenu_Button_DungeonFinder" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("dungeonfinder") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("dungeonfinder") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("dungeonfinder") </OnEnter>
+		</Scripts>
+	</Frame>
+	<!-- Help -->
+	<Frame name="nibMicroMenu_Button_HelpRequest" inherits="nibMicroMenu_ButtonTemplate">
+		<Scripts>
+			<OnMouseDown> nibMicroMenu_ButtonClick("helprequest") </OnMouseDown>
+			<OnLeave> nibMicroMenu_ButtonOnLeave("helprequest") </OnLeave>
+			<OnEnter> nibMicroMenu_ButtonOnEnter("helprequest") </OnEnter>
+		</Scripts>
+	</Frame>
+</Ui>

@@ -1,0 +1,26 @@
+## Interface: 30300
+## Title: Raven
+## Notes: Monitors buffs, debuffs and cooldowns and provides timer bars and icons plus helpful notifications
+## SavedVariables: RavenDB
+## DefaultState: enabled
+## Author: Tomber (Kader Backport)
+## Version: r541
+## X-Date: 2022-03-16 @ 01:42 AM |cff808080UTC|r
+## X-Category: Buffs and Debuffs
+## X-Email: bkader@mail.com
+## X-Website: https://github.com/bkader/Raven-WotLK
+## X-Discord: https://discord.gg/a8z5CyS3eW
+
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+Locales.xml
+Main.lua
+Profile.lua
+Conditions.lua
+Values.lua
+Bars.lua
+Cancel.lua
+Nest.lua
+Presets.xml

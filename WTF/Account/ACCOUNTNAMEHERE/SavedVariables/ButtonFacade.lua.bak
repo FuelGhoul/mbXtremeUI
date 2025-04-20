@@ -1,0 +1,20 @@
+
+ButtonFacadeDB = {
+	["profileKeys"] = {
+		["Sata - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Gloss"] = 1,
+			["Colors"] = {
+				["Gloss"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+			},
+			["SkinID"] = "Darion",
+		},
+	},
+}

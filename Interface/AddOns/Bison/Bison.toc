@@ -1,0 +1,25 @@
+## Interface: 40200
+## Title: Bison |cff7f7fff -Ace3-|r
+## Notes: Customizing your buff display
+## Notes-deDE: Anpassung der Buff Anzeige
+## Author: Grayal
+## DefaultState: enabled
+## SavedVariables: BisonDB
+## OptionalDeps: Ace3, LibDebugLog-1.0, ButtonFacade
+## X-Name: Bison
+## X-Embeds: Ace3, LibDebugLog-1.0, ButtonFacade
+## X-Email: grayal@gmx.de
+## X-Category: Buffs
+## X-CompatibleLocales: enUS, enGB, deDE
+## Version: 1.4.3
+## X-Curse-Packaged-Version: r10-release
+## X-Curse-Project-Name: Bison
+## X-Curse-Project-ID: bison
+## X-Curse-Repository-ID: wow/bison/mainline
+
+embeds.xml
+
+Localization.lua
+Bison.lua
+BuffBar.lua
+Options.lua

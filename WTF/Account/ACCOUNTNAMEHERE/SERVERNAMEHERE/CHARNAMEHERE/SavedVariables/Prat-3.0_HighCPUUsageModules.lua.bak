@@ -1,0 +1,52 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1745093638,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"[20:11:00]|c00000000|r|cff99cc00Donate and be rewarded with coins which can be spent on our website. Donations help cover Warmane's servers, services, staff salaries as well as maintenance, development and expansion.|r", -- [1]
+				1.000000059138984, -- [2]
+				1.000000059138984, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+		},
+		["ChatFrame7"] = {
+			{
+				"[20:10:36]|c00000000|r|Hchannel:channel:1|h[1] |h Joined Channel: |Hchannel:1|h[1. General - Orgrimmar]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				63, -- [5]
+			}, -- [1]
+			{
+				"[20:12:00]|c00000000|r|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Baneboost:88:CHANNEL:1|h|cffc69b6dBaneboost|r|h|cffd8d8d8]|r: WTS Boost runs for GOLD - ICC/RS 25 Heroic / ToGC Immortality / Immortal and Undying runs - Our boosting community is the most reliable and trusted on Icecrown.Rank 1Guild on Server Fade Join our discord for more information |cffffffff|Hurl:https://discord.gg/mvXKeQFnHt|h[https://discord.gg/mvXKeQFnHt]|h|r", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				63, -- [5]
+			}, -- [2]
+			{
+				"[20:12:24]|c00000000|r|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jannaqt:105:CHANNEL:1|h|cff68ccefJannaqt|r|h|cffd8d8d8]|r: R1 DK Streaming DK/Preg with Bruce -> |cffffffff|Hurl:twitch.tv|h[twitch.tv]|h|r/jorisxtv", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				63, -- [5]
+			}, -- [3]
+			{
+				"[20:12:38]|c00000000|r|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mozliz:115:CHANNEL:1|h|cfffff468Mozliz|r|h|cffd8d8d8]|r: Tank queue RDF 70", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				63, -- [5]
+			}, -- [4]
+			{
+				"[20:13:00]|c00000000|r|Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mozliz:133:CHANNEL:1|h|cfffff468Mozliz|r|h|cffd8d8d8]|r: Tank queue RDF 70", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				63, -- [5]
+			}, -- [5]
+		},
+	},
+}

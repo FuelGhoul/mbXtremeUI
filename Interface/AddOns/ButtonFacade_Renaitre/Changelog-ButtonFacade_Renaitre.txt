@@ -1,0 +1,35 @@
+v0223
+-revised Square Gloss (nicer fade for larger buttons)
+
+v0213
+-revised colors
+
+v0211
+-revised Square Gloss texture
+
+v0209
+-revised location of Name and Count for Square skin
+
+v0208
+-revised Square sizing
+-revised default colors
+
+v0206
+-revised Circle Normal  texture
+
+v0205
+-added "Circle2" skin (basic circle, less shading)
+
+v0202
+-new Gloss textures
+-new Circle Normal texture
+
+v0201
+-new Circle textures
+-new Square textures
+-adjust Name position
+-adjust Number position
+-adjust Hotkey position
+
+v0131 
+-initial commit

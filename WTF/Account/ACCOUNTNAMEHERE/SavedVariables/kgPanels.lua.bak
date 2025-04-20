@@ -1,0 +1,118 @@
+
+kgPanelsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Valacar - Nathrezim"] = "mbXtremeUI 5.0",
+	},
+	["global"] = {
+		["artwork"] = {
+			["Chat"] = "\\\\Interface\\AddOns\\kgPanelsGFX\\chat.tga",
+		},
+		["layouts"] = {
+			["mbXtremeUI 5.0"] = {
+				["Chat"] = {
+					["border_advanced"] = {
+						["enable"] = false,
+						["show"] = {
+							["BOT"] = true,
+							["TOPRIGHTCORNER"] = true,
+							["LEFT"] = true,
+							["BOTLEFTCORNER"] = true,
+							["RIGHT"] = true,
+							["TOPLEFTCORNER"] = true,
+							["TOP"] = true,
+							["BOTRIGHTCORNER"] = true,
+						},
+					},
+					["parent"] = "UIParent",
+					["bg_orientation"] = "HORIZONTAL",
+					["anchorFrom"] = "CENTER",
+					["hflip"] = false,
+					["vflip"] = false,
+					["tileSize"] = 0,
+					["bg_texture"] = "Chat",
+					["anchor"] = "UIParent",
+					["level"] = 0,
+					["use_absolute_bg"] = false,
+					["bg_blend"] = "BLEND",
+					["text"] = {
+						["y"] = 0,
+						["font"] = "Blizzard",
+						["justifyH"] = "CENTER",
+						["x"] = 0,
+						["color"] = {
+							["a"] = 1,
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["text"] = "",
+						["justifyV"] = "MIDDLE",
+						["size"] = 12,
+					},
+					["y"] = "-264",
+					["x"] = "-684",
+					["bg_alpha"] = 1,
+					["border_edgeSize"] = 16,
+					["height"] = 512,
+					["tiling"] = false,
+					["strata"] = "BACKGROUND",
+					["anchorTo"] = "CENTER",
+					["absolute_bg"] = {
+						["LLx"] = 0,
+						["LLy"] = 1,
+						["LRy"] = 1,
+						["LRx"] = 1,
+						["URx"] = 1,
+						["URy"] = 0,
+						["ULy"] = 0,
+						["ULx"] = 0,
+					},
+					["crop"] = false,
+					["scripts"] = {
+					},
+					["bg_style"] = "NONE",
+					["gradient_color"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+					["border_color"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+					["border_texture"] = "None",
+					["width"] = "512",
+					["sub_level"] = 0,
+					["rotation"] = 0,
+					["mouse"] = false,
+					["bg_color"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+					["bg_insets"] = {
+						["b"] = "0",
+						["t"] = "0",
+						["l"] = "0",
+						["r"] = "0",
+					},
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+		["mbXtremeUI 5.0"] = {
+			["layout"] = "mbXtremeUI 5.0",
+		},
+	},
+}

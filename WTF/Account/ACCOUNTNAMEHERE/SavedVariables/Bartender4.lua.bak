@@ -1,0 +1,212 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["padding"] = 5,
+							["position"] = {
+								["x"] = -432.677490234375,
+								["point"] = "BOTTOM",
+								["y"] = 259.111083984375,
+							},
+						}, -- [1]
+						{
+							["buttons"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 60,
+								["point"] = "BOTTOM",
+								["y"] = 258.5857849121094,
+							},
+							["padding"] = 5,
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -432.6776733398438,
+								["point"] = "BOTTOM",
+								["y"] = 218,
+							},
+							["padding"] = 5,
+						}, -- [3]
+						{
+							["buttons"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 60,
+								["point"] = "BOTTOM",
+								["y"] = 218,
+							},
+							["padding"] = 5,
+						}, -- [4]
+						{
+							["rows"] = 3,
+							["buttons"] = 9,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 341.966796875,
+								["point"] = "LEFT",
+								["y"] = -256.5866241455078,
+							},
+							["padding"] = 5,
+						}, -- [5]
+						{
+							["rows"] = 3,
+							["buttons"] = 9,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 445.8975830078125,
+								["point"] = "BOTTOM",
+								["y"] = 256.9476318359375,
+							},
+							["padding"] = 5,
+						}, -- [6]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+								["y"] = 0.5001220703125,
+							},
+						}, -- [7]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+								["y"] = 38.5001220703125,
+							},
+						}, -- [8]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+								["y"] = 76.50006103515625,
+							},
+						}, -- [9]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+								["y"] = 114.5001220703125,
+							},
+						}, -- [10]
+					},
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 382.25537109375,
+						["point"] = "CENTER",
+						["y"] = -44.25555419921875,
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 314.2667846679688,
+						["point"] = "CENTER",
+						["scale"] = 1,
+						["y"] = -181.4444580078125,
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+		},
+		["BlizzardArt"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -512,
+						["point"] = "BOTTOM",
+						["y"] = 47,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 291.7225341796875,
+						["point"] = "CENTER",
+						["y"] = 67.78887939453125,
+					},
+				},
+			},
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["onebag"] = true,
+					["position"] = {
+						["x"] = 463.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 72.8111572265625,
+						["point"] = "CENTER",
+						["scale"] = 1,
+						["y"] = -148.0110473632813,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Valacar - Nathrezim"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -62.3221435546875,
+						["point"] = "CENTER",
+						["y"] = 239.5,
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Valacar - Nathrezim"] = "Valacar - Nathrezim",
+	},
+	["profiles"] = {
+		["Valacar - Nathrezim"] = {
+			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
+			["outofrange"] = "hotkey",
+		},
+	},
+}

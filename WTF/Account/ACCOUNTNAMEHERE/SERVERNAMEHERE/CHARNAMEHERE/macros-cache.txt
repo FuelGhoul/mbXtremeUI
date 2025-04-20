@@ -1,0 +1,30 @@
+MACRO 16777220 "Consecration" INV_Misc_QuestionMark
+#showtooltip Consecration
+/startattack
+/cast Consecration
+END
+MACRO 16777219 "CS" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+END
+MACRO 16777218 "DS" INV_Misc_QuestionMark
+#showtooltip Divine Storm
+/startattack
+/cast Divine Storm
+END
+MACRO 16777221 "Exorcism" INV_Misc_QuestionMark
+#showtooltip Exorcism
+/startattack
+/cast Exorcism
+END
+MACRO 16777222 "HoW" INV_Misc_QuestionMark
+#showtooltip Hammer of Wrath
+/startattack
+/cast Hammer of Wrath
+END
+MACRO 16777217 "JoW" INV_Misc_QuestionMark
+#showtooltip Judgement of Wisdom
+/startattack
+/cast Judgement of Wisdom
+END

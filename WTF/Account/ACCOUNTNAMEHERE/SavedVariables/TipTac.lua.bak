@@ -1,0 +1,31 @@
+
+TipTac_Config = {
+	["fontFace"] = "Interface\\AddOns\\SharedMedia\\Media\\Fonts\\Impact.ttf",
+	["showBuffs"] = false,
+	["optionsBottom"] = 367.1604399515244,
+	["optionsLeft"] = 211.7038364762627,
+	["tipBackdropBG"] = "Interface\\Buttons\\WHITE8X8",
+	["tipColor"] = {
+		0, -- [1]
+		0, -- [2]
+		0, -- [3]
+		1, -- [4]
+	},
+	["talentFormat"] = 2,
+	["healthBarText"] = "none",
+	["showDebuffs"] = false,
+	["targetYouText"] = "<<YOU>>",
+	["top"] = 268.7885757201638,
+	["barTexture"] = "Interface\\AddOns\\SharedMedia\\Media\\Statusbar\\Healbot",
+	["gradientTip"] = false,
+	["barFontFace"] = "Interface\\AddOns\\SharedMedia\\Media\\Fonts\\Impact.ttf",
+	["tipBorderColor"] = {
+		0.3019607843137255, -- [1]
+		0.3019607843137255, -- [2]
+		0.4, -- [3]
+		0, -- [4]
+	},
+	["barFontSize"] = 10,
+	["left"] = 1767.197766801018,
+	["modifyFonts"] = true,
+}

@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Valacar_Nathrezim::Horde"] = {
+		["show"] = true,
+		["name"] = "Valacar",
+		["gold"] = 136652122,
+	},
+}

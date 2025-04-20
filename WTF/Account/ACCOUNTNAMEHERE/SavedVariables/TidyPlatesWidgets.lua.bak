@@ -1,0 +1,14 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+		["Skallepäryy"] = "ROGUE",
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+		["Vira Younghoof"] = "First Aid Trainer",
+		["Innkeeper Kauth"] = "Innkeeper",
+	},
+	["UnitGuild"] = {
+	},
+}

@@ -1,0 +1,10 @@
+
+nibChatTabsDB = {
+	["profileKeys"] = {
+		["Eyka - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

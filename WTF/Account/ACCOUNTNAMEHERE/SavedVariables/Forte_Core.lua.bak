@@ -1,0 +1,1029 @@
+
+FC_Saved = {
+}
+FX_Saved = {
+	["Timers"] = {
+	},
+	["Healthstone"] = {
+		["Uicreator"] = 0,
+	},
+	["Exceptions"] = {
+		["Hellfire Channeler"] = 0,
+		["Grand Astromancer Capernian"] = 1,
+		["Lord Sanguinar"] = 1,
+		["Thaladred the Darkener"] = 1,
+		["Fathom-Guard Caribdis"] = 1,
+		["Master Engineer Telonicus"] = 1,
+		["Fathom-Guard Tidalvess"] = 1,
+		["Fathom-Guard Sharkkis"] = 1,
+	},
+	["Update"] = 39755.586,
+	["Profiles"] = {
+		["Active"] = 1,
+		["Characters"] = {
+			["Uicreator-Skullcrusher"] = 1,
+		},
+		["Links"] = {
+		},
+		["Data"] = {
+			{
+				["name"] = "mbXtremeUI 5.0",
+			}, -- [1]
+		},
+		["Instances"] = {
+			{
+				["PaladinColor"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
+				},
+				["HealthstoneUnknownMinColor"] = {
+					0.53, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["ShowReady"] = true,
+				["SummoningColor"] = {
+					0.64, -- [1]
+					0.21, -- [2]
+					0.9300000000000001, -- [3]
+				},
+				["LinkNoneColor"] = {
+					0.5, -- [1]
+					0, -- [2]
+					1, -- [3]
+					0.1, -- [4]
+					[0] = false,
+				},
+				["OptionsFontInputColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["CooldownStrata"] = "MEDIUM",
+				["SoulstoneBgColor"] = {
+					0.31, -- [1]
+					0, -- [2]
+					0.62, -- [3]
+					0.75, -- [4]
+				},
+				["RemoveAfterCombat"] = false,
+				["TimerClearcastingSound"] = {
+					"Sound\\Spells\\SimonGame_Visual_GameStart.wav", -- [1]
+					4, -- [2]
+					[0] = false,
+				},
+				["LinkProfileColor"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.1, -- [4]
+					[0] = true,
+				},
+				["SummonDetails"] = true,
+				["FWOptions"] = {
+					["y"] = 383.9999658955458,
+					["x"] = 682.6666831970215,
+					["lock"] = false,
+					["scale"] = 1,
+					["alpha"] = 1,
+				},
+				["SoulstoneFont"] = {
+					"Fonts\\FRIZQT__.TTF", -- [1]
+					11, -- [2]
+				},
+				["MeetingStoneSummon"] = {
+					"Summoning >> %s << Clicky clicky!", -- [1]
+					[0] = 0,
+				},
+				["FWSSFrame"] = {
+					["y"] = 343.4666193564717,
+					["x"] = 968.5332448866611,
+					["lock"] = false,
+					["scale"] = 1,
+					["alpha"] = 1,
+				},
+				["DiffBothColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0.2, -- [4]
+					[0] = true,
+				},
+				["LoadExpandSubcats"] = true,
+				["WarlockColor"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
+				},
+				["TimerSpellsTooltip"] = true,
+				["DeadColor"] = {
+					0.5, -- [1]
+					0.5, -- [2]
+					0.5, -- [3]
+				},
+				["IgnoreCooldown"] = 2.99,
+				["SoulstoneHeight"] = 12,
+				["WhisperColor"] = {
+					1, -- [1]
+					0, -- [2]
+					1, -- [3]
+				},
+				["Font"] = {
+					"Fonts\\FRIZQT__.TTF", -- [1]
+					11, -- [2]
+				},
+				["SummonTextColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["SummonCloser"] = false,
+				["HealthstoneBgColor"] = {
+					0.31, -- [1]
+					0, -- [2]
+					0.62, -- [3]
+					0.75, -- [4]
+				},
+				["FrameSnap"] = true,
+				["ReadyColor"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["FWHSFrame"] = {
+					["y"] = 280.8888513935926,
+					["x"] = 615.8222618103027,
+					["lock"] = false,
+					["scale"] = 1,
+					["alpha"] = 1,
+				},
+				["HealthstoneTextColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["HealthstoneDetails"] = true,
+				["SoulstoneEnable"] = true,
+				["Texture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+				["FrameSnapDistance"] = 5,
+				["OptionHeaderColor"] = {
+					0.2, -- [1]
+					0.2, -- [2]
+					0.2, -- [3]
+				},
+				["Details"] = true,
+				["SummonTexture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+				["HealthstoneSpace"] = 1,
+				["TimerColorOverride"] = {
+					0.24, -- [1]
+					0.24, -- [2]
+					0.24, -- [3]
+					[0] = false,
+				},
+				["FrameDistance"] = 0,
+				["AnimationInterval"] = 0.04,
+				["Cooldown"] = {
+					["Active"] = 1,
+					["Instance"] = "Cooldown",
+					["Instances"] = {
+						{
+							["Soulstone"] = {
+								0.64, -- [1]
+								0.21, -- [2]
+								0.9300000000000001, -- [3]
+								[0] = true,
+							},
+							["Enable"] = true,
+							["Loga"] = 0.33,
+							["BgColor"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.5, -- [4]
+							},
+							["Vertical"] = false,
+							["HideCombat"] = false,
+							["lock"] = false,
+							["IconSize"] = {
+								36, -- [1]
+								[0] = false,
+							},
+							["AlphaMax"] = 1,
+							["Hide"] = false,
+							["Spell"] = {
+								1, -- [1]
+								0.5, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["Spark"] = {
+								1, -- [1]
+								[0] = true,
+							},
+							["Tags"] = 6,
+							["BuffOther"] = {
+								0.5, -- [1]
+								0.5, -- [2]
+								0.5, -- [3]
+								[0] = false,
+							},
+							["Alpha"] = 0.2,
+							["Width"] = 410,
+							["y"] = 83.19994972679206,
+							["x"] = 683.3776125589975,
+							["Potion"] = {
+								0, -- [1]
+								1, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["Filter"] = {
+								["Recently Bandaged"] = {
+									[2] = {
+										-2, -- [1]
+										1, -- [2]
+										0.65, -- [3]
+										0, -- [4]
+									},
+								},
+							},
+							["GroupOverride"] = true,
+							["Debuff"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["MinRange"] = {
+								0, -- [1]
+								[0] = false,
+							},
+							["Detail"] = true,
+							["Enchant"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["Swing"] = false,
+							["Buff"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["Flip"] = false,
+							["scale"] = 1,
+							["IconTime"] = true,
+							["Height"] = 30,
+							["Powerup"] = {
+								0, -- [1]
+								0.75, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["IconTextColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["IconFont"] = {
+								"Fonts\\FRIZQT__.TTF", -- [1]
+								11, -- [2]
+								"OUTLINE", -- [3]
+							},
+							["ResTimer"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["Splash"] = true,
+							["Internal"] = {
+								0, -- [1]
+								0.6, -- [2]
+								0.85, -- [3]
+								[0] = true,
+							},
+							["MaxRange"] = {
+								3600, -- [1]
+								[0] = false,
+							},
+							["Healthstone"] = {
+								0, -- [1]
+								1, -- [2]
+								0.5, -- [3]
+								[0] = true,
+							},
+							["CustomTags"] = {
+								"0 1 10 30 60 120 300 600", -- [1]
+								[0] = true,
+							},
+							["Backdrop"] = {
+								"Interface\\AddOns\\Forte_Core\\Textures\\Background", -- [1]
+								"Interface\\AddOns\\Forte_Core\\Textures\\Border", -- [2]
+								false, -- [3]
+								16, -- [4]
+								5, -- [5]
+								3, -- [6]
+							},
+							["TextColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0.2, -- [4]
+							},
+							["BarColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0.2, -- [4]
+							},
+							["MaxRemaining"] = {
+								3600, -- [1]
+								[0] = false,
+							},
+							["Max"] = 300,
+							["MinRemaining"] = {
+								0, -- [1]
+								[0] = false,
+							},
+							["alpha"] = 1,
+							["Ignore"] = true,
+							["Pet"] = {
+								1, -- [1]
+								0, -- [2]
+								0.95, -- [3]
+								[0] = true,
+							},
+							["Font"] = {
+								"Fonts\\FRIZQT__.TTF", -- [1]
+								11, -- [2]
+							},
+							["Item"] = {
+								1, -- [1]
+								1, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["SplashFactor"] = 4,
+							["Test"] = false,
+							["Warn"] = true,
+							["Texture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+							["DebuffOther"] = {
+								0.5, -- [1]
+								0, -- [2]
+								0, -- [3]
+								[0] = false,
+							},
+						}, -- [1]
+					},
+					["Data"] = {
+						{
+							["name"] = "Cooldown Timer",
+						}, -- [1]
+					},
+					["Links"] = {
+					},
+				},
+				["TimerStrata"] = "MEDIUM",
+				["GlobalAlpha"] = 1,
+				["DiffProfileColor"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.2, -- [4]
+					[0] = true,
+				},
+				["SummonEnable"] = true,
+				["SummonMax"] = 5,
+				["OptionsSubHeaderTexture"] = "Interface\\AddOns\\Forte_Core\\Textures\\Minimalist",
+				["OutputRaid"] = true,
+				["UpdateInterval"] = 0.5,
+				["HealthstoneMaxColor"] = {
+					0.53, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["OptionsModuleColor"] = true,
+				["SoulstoneDetailsAuto"] = false,
+				["SummonExpand"] = false,
+				["HealthstoneHeight"] = 12,
+				["AnimateScroll"] = false,
+				["OptionsFont"] = {
+					"Interface\\AddOns\\Forte_Core\\Fonts\\GOTHIC.TTF", -- [1]
+					11, -- [2]
+				},
+				["HealthstoneEnable"] = true,
+				["LinkProfile"] = false,
+				["LSStart"] = {
+					"+++ Last Stand (20 sec) +++", -- [1]
+					[0] = 1,
+				},
+				["SummonOldMode"] = false,
+				["TimerImproveRaidTarget"] = false,
+				["OptionsFontLabelColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["TimerSmooth"] = 5,
+				["ShowAll"] = true,
+				["GlobalFrameNames"] = false,
+				["OptionsHeaderTexture"] = "Interface\\AddOns\\Forte_Core\\Textures\\Otravi",
+				["SpellTimerInterval"] = 0.2,
+				["HealthstoneAuto"] = false,
+				["GlobalLock"] = false,
+				["Tips"] = true,
+				["HealthstoneDetailsAuto"] = false,
+				["Delay"] = 0.05,
+				["OfflineColor"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["LinkBothColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0.1, -- [4]
+					[0] = true,
+				},
+				["TimerSmartSpace"] = {
+					30, -- [1]
+					[0] = true,
+				},
+				["OptionsBackdrop"] = {
+					"Interface\\AddOns\\Forte_Core\\Textures\\Background", -- [1]
+					"Interface\\AddOns\\Forte_Core\\Textures\\Border", -- [2]
+					false, -- [3]
+					16, -- [4]
+					5, -- [5]
+					5, -- [6]
+				},
+				["LinkClone"] = false,
+				["DiffCloneColor"] = {
+					1, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+					0.2, -- [4]
+					[0] = true,
+				},
+				["SummonBgColor"] = {
+					0.31, -- [1]
+					0, -- [2]
+					0.62, -- [3]
+					0.75, -- [4]
+				},
+				["HealthstoneWidth"] = 100,
+				["SummonFont"] = {
+					"Fonts\\FRIZQT__.TTF", -- [1]
+					11, -- [2]
+				},
+				["Mix"] = 0.5,
+				["HealthstoneFont"] = {
+					"Fonts\\FRIZQT__.TTF", -- [1]
+					11, -- [2]
+				},
+				["RightClickOptions"] = true,
+				["SoulstoneSpace"] = 1,
+				["TimerResistSound"] = {
+					"Sound\\Spells\\SimonGame_Visual_BadPress.wav", -- [1]
+					1, -- [2]
+					[0] = true,
+				},
+				["SummonStrata"] = "MEDIUM",
+				["ExpandSubcats"] = false,
+				["SummonInterval"] = 1,
+				["ShowStartupText"] = true,
+				["Chill"] = 0.05,
+				["TimerImprove"] = false,
+				["HealthstoneStrata"] = "MEDIUM",
+				["SoulstoneMsgColor"] = {
+					1, -- [1]
+					0, -- [2]
+					1, -- [3]
+					[0] = true,
+				},
+				["OptionsHeaderFont"] = {
+					"Interface\\AddOns\\Forte_Core\\Fonts\\GOTHICB.TTF", -- [1]
+					11, -- [2]
+				},
+				["FWSUFrame"] = {
+					["y"] = 383.9999658955458,
+					["x"] = 682.6666831970215,
+					["lock"] = false,
+					["scale"] = 1,
+					["alpha"] = 1,
+				},
+				["Strata"] = "MEDIUM",
+				["SummonKeyword"] = {
+					"summon", -- [1]
+					[0] = true,
+				},
+				["DotTicksDelayNew"] = 1.5,
+				["LinkCloneColor"] = {
+					1, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+					0.1, -- [4]
+					[0] = true,
+				},
+				["TimerBreakSound"] = {
+					"Sound\\Spells\\SimonGame_Visual_LevelStart.wav", -- [1]
+					4, -- [2]
+					[0] = true,
+				},
+				["ShamanColor"] = {
+					0, -- [1]
+					0.86, -- [2]
+					0.73, -- [3]
+				},
+				["LoadDelay"] = 1,
+				["SummonCloseColor"] = {
+					0.6, -- [1]
+					0.6, -- [2]
+					0.6, -- [3]
+				},
+				["SoulstoneAuto"] = false,
+				["HealthstoneUnknown"] = true,
+				["SummonMeetingStone"] = false,
+				["ERStart"] = {
+					"+++ Enraged Regeneration (10 sec) +++", -- [1]
+					[0] = 1,
+				},
+				["UseTokens"] = "pet pettarget vehicle focus mouseover",
+				["TimeLeft"] = {
+					">> %s on %s is fading in %s <<", -- [1]
+					[0] = 1,
+				},
+				["RightClickIconOptions"] = true,
+				["SummonHeight"] = 12,
+				["TalentOffsetY"] = 0,
+				["InterveneStart"] = {
+					"+++ Intervene on %s (10 sec) +++", -- [1]
+					[0] = 1,
+				},
+				["HealthstoneTexture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+				["TimeLeftNoTarg"] = {
+					">> %s is fading in %s <<", -- [1]
+					[0] = 1,
+				},
+				["HealthstoneExpand"] = false,
+				["SummonSpace"] = 1,
+				["HealthstoneMinColor"] = {
+					0.9300000000000001, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["GlobalScale"] = 1,
+				["TimerResistsColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0.54, -- [3]
+					[0] = true,
+				},
+				["OptionsHeight"] = 440,
+				["SoulstoneMinColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0.6, -- [3]
+				},
+				["Output"] = {
+					"MyProChannel", -- [1]
+					[0] = true,
+				},
+				["SoulstoneMax"] = 10,
+				["TimerSortOrder"] = "buff selfdebuff debuff cooldown notarget target",
+				["VigilanceStart"] = {
+					">>> Vigilance on %s (12 sec) <<<", -- [1]
+					[0] = 0,
+				},
+				["DiffNoneColor"] = {
+					0, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.2, -- [4]
+					[0] = false,
+				},
+				["TimerFadeSpeed"] = 0.5,
+				["SoulstoneWidth"] = 100,
+				["DruidColor"] = {
+					1, -- [1]
+					0.49, -- [2]
+					0.04, -- [3]
+				},
+				["SoulstoneMaxColor"] = {
+					0.64, -- [1]
+					0.21, -- [2]
+					0.9300000000000001, -- [3]
+				},
+				["CooldownLeft"] = {
+					">> %s is ready in %s <<", -- [1]
+					[0] = 1,
+				},
+				["GlobalSpark"] = {
+					0.7, -- [1]
+					[0] = true,
+				},
+				["SoulstoneFadeSound"] = {
+					"Interface\\AddOns\\Forte_Core\\Sounds\\SoulstoneExpire.mp3", -- [1]
+					1, -- [2]
+					[0] = true,
+				},
+				["SoulstoneTextColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["TimerFadeSound"] = {
+					"Sound\\Spells\\ShaysBell.wav", -- [1]
+					2, -- [2]
+					[0] = true,
+				},
+				["SplashStrata"] = "MEDIUM",
+				["Splash"] = {
+					["Active"] = 1,
+					["Instance"] = "Splash",
+					["Instances"] = {
+						{
+							["SplashGlow"] = true,
+							["x"] = 682.6666831970215,
+							["scale"] = 2,
+							["lock"] = false,
+							["Enable"] = false,
+							["y"] = 383.9999658955458,
+							["alpha"] = 0.7,
+							["SecondSplashMax"] = 4,
+						}, -- [1]
+					},
+					["Data"] = {
+						{
+							["name"] = "Secondary Splash",
+						}, -- [1]
+					},
+					["Links"] = {
+					},
+				},
+				["SummonWidth"] = 100,
+				["SoulstoneStrata"] = "MEDIUM",
+				["Timer"] = {
+					["Active"] = 1,
+					["Instance"] = "Timer",
+					["Instances"] = {
+						{
+							["TargetDebuff"] = {
+								0, -- [1]
+								0.36, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["FocusBgColor"] = {
+								1, -- [1]
+								1, -- [2]
+								0.5, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["NoTarget"] = true,
+							["CustomTag"] = {
+								"id target :: spell stacks", -- [1]
+								[0] = false,
+							},
+							["Expand"] = true,
+							["HideTime"] = 2,
+							["TargetDebuffOther"] = {
+								0, -- [1]
+								0.18, -- [2]
+								0.5, -- [3]
+								[0] = false,
+							},
+							["StacksFont"] = {
+								"Fonts\\FRIZQT__.TTF", -- [1]
+								11, -- [2]
+								"OUTLINE", -- [3]
+							},
+							["FadeTime"] = 1,
+							["NormalColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["Fail"] = {
+								1, -- [1]
+								0, -- [2]
+								0.3, -- [3]
+								[0] = true,
+							},
+							["y"] = 383.9999658955458,
+							["x"] = 682.6666831970215,
+							["NormalAlpha"] = 0.5,
+							["FailTime"] = 2,
+							["Bane"] = {
+								0, -- [1]
+								0.54, -- [2]
+								0.42, -- [3]
+								[0] = true,
+							},
+							["GroupID"] = true,
+							["Enchant"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["Buff"] = {
+								1, -- [1]
+								1, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["scale"] = 1,
+							["Crowd"] = {
+								0, -- [1]
+								1, -- [2]
+								0.5, -- [3]
+								[0] = true,
+							},
+							["TargetColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["IconRight"] = false,
+							["Target"] = true,
+							["IgnoreLong"] = false,
+							["Icon"] = true,
+							["MaximizeName"] = false,
+							["TimeRight"] = false,
+							["Max"] = {
+								15, -- [1]
+								[0] = false,
+							},
+							["alpha"] = 1,
+							["You"] = true,
+							["LabelFlip"] = false,
+							["Font"] = {
+								"Fonts\\FRIZQT__.TTF", -- [1]
+								11, -- [2]
+							},
+							["Name"] = true,
+							["Height"] = 14,
+							["Label"] = false,
+							["Enable"] = true,
+							["BarBackgroundAlpha"] = 0.3,
+							["Time"] = true,
+							["lock"] = false,
+							["TicksNext"] = true,
+							["CastSparkTickOverlap"] = true,
+							["Hide"] = false,
+							["HideLonger"] = {
+								30, -- [1]
+								[0] = false,
+							},
+							["Spell"] = false,
+							["Spark"] = {
+								0.7, -- [1]
+								[0] = true,
+							},
+							["TargetBgColor"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["SpacingHeight"] = 2,
+							["IconStacks"] = true,
+							["LabelFont"] = {
+								"Fonts\\FRIZQT__.TTF", -- [1]
+								11, -- [2]
+							},
+							["Width"] = 250,
+							["MaxTime"] = {
+								30, -- [1]
+								[0] = true,
+							},
+							["CastSparkGCD"] = true,
+							["NormalBgColor"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.5, -- [4]
+							},
+							["ExpiredColor"] = {
+								0.5, -- [1]
+								0.5, -- [2]
+								0.5, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["Texture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+							["SparkDamage"] = {
+								1.5, -- [1]
+								[0] = true,
+							},
+							["Cooldown"] = {
+								1, -- [1]
+								0.39, -- [2]
+								0.35, -- [3]
+								[0] = true,
+							},
+							["RaidDebuffs"] = true,
+							["Other"] = true,
+							["OneMax"] = true,
+							["Curse"] = {
+								0.64, -- [1]
+								0.21, -- [2]
+								0.9300000000000001, -- [3]
+								[0] = true,
+							},
+							["Flip"] = false,
+							["SelfDebuffOther"] = {
+								0.5, -- [1]
+								0, -- [2]
+								0, -- [3]
+								[0] = false,
+							},
+							["CooldownOther"] = {
+								0.5, -- [1]
+								0.2, -- [2]
+								0.18, -- [3]
+								[0] = false,
+							},
+							["CastSpark"] = {
+								0.3, -- [1]
+								[0] = true,
+							},
+							["SelfBuffOther"] = {
+								0.5, -- [1]
+								0.5, -- [2]
+								0.5, -- [3]
+								[0] = false,
+							},
+							["UnknownTarget"] = true,
+							["LabelHeight"] = 18,
+							["SelfDebuff"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["Default"] = {
+								1, -- [1]
+								0.5, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["Space"] = 2,
+							["Background"] = true,
+							["Outwands"] = true,
+							["Channel"] = {
+								0.42, -- [1]
+								0, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["Filter"] = {
+							},
+							["SelfBuff"] = {
+								0, -- [1]
+								0.75, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["Focus"] = true,
+							["HighlightColor"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								[0] = true,
+							},
+							["HideLongerNoBoss"] = false,
+							["Ticks"] = {
+								0.3, -- [1]
+								[0] = true,
+							},
+							["Pet"] = {
+								1, -- [1]
+								0, -- [2]
+								0.95, -- [3]
+								[0] = true,
+							},
+							["RaidTargets"] = {
+								0.7, -- [1]
+								[0] = false,
+							},
+							["LabelLimit"] = false,
+							["Heal"] = {
+								0, -- [1]
+								1, -- [2]
+								0, -- [3]
+								[0] = true,
+							},
+							["FocusColor"] = {
+								1, -- [1]
+								1, -- [2]
+								0.5, -- [3]
+								1, -- [4]
+								[0] = false,
+							},
+							["Blink"] = {
+								3, -- [1]
+								[0] = true,
+							},
+							["Test"] = false,
+							["ForceMax"] = false,
+							["ShowID"] = false,
+							["Backdrop"] = {
+								"Interface\\AddOns\\Forte_Core\\Textures\\Background", -- [1]
+								"Interface\\AddOns\\Forte_Core\\Textures\\Border", -- [2]
+								false, -- [3]
+								16, -- [4]
+								5, -- [5]
+								3, -- [6]
+							},
+						}, -- [1]
+					},
+					["Data"] = {
+						{
+							["name"] = "Spell Timer",
+						}, -- [1]
+					},
+					["Links"] = {
+					},
+				},
+				["CancelDelay"] = 0.5,
+				["SoulstoneReadySound"] = {
+					"Sound\\Spells\\SimonGame_Visual_GameTick.wav", -- [1]
+					1, -- [2]
+					[0] = true,
+				},
+				["TalentOffsetX"] = 0,
+				["OptionsColums"] = 2,
+				["SoulstoneTexture"] = "Interface\\AddOns\\Forte_Core\\Textures\\BantoBar",
+				["SoulstoneExpand"] = false,
+				["SummonFarColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["TimeFormat"] = true,
+				["RCStart"] = {
+					"+++ Rallying Cry (10 sec) +++", -- [1]
+					[0] = 1,
+				},
+				["DisableMouseover"] = false,
+				["SpellGroupTips"] = true,
+				["TimerInstantSound"] = {
+					"Sound\\Spells\\ShadowWard.wav", -- [1]
+					4, -- [2]
+					[0] = false,
+				},
+				["HealthstoneUnknownMaxColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["HealthstoneInterval"] = 2,
+				["OptionBackgroundColor"] = {
+					0.18, -- [1]
+					0.18, -- [2]
+					0.18, -- [3]
+					0.9, -- [4]
+				},
+				["DisableFocus"] = false,
+				["SWStart"] = {
+					"+++ Shield Wall (12 sec) +++", -- [1]
+					[0] = 1,
+				},
+			}, -- [1]
+		},
+	},
+	["RAID"] = false,
+	["VERSION"] = "v1.980.8",
+	["Cooldowns"] = {
+	},
+	["CATEGORIES"] = {
+		["Cooldown Timer"] = {
+			["Frame Sizing"] = {
+				["expand"] = true,
+			},
+		},
+	},
+	["RaidStatus"] = {
+		["Uicreator"] = {
+			0, -- [1]
+			39755.586, -- [2]
+			"WARRIOR", -- [3]
+			"v1.980.8", -- [4]
+		},
+	},
+	["GROUPED"] = false,
+}
